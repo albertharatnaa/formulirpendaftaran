@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Formulir Pendaftaran</string>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Lain-Lain</item>
+    </string-array>
+    <string-array name="PendidikanOrtu">
+        <item>Tidak Lulus SD</item>
+        <item>SD</item>
+        <item>SLTP</item>
+        <item>SMA</item>
+        <item>Diploma</item>
+        <item>Sarjana Muda</item>
+        <item>Sarjana</item>
+        <item>Magister</item>
+        <item>Doktor</item>
+    </string-array>
+    <string-array name="ProgramStudi">
+        <item>Desain Produk Mekatronika</item>
+        <item>Instrumentasi Medis</item>
+    </string-array>
+    <string-array name="JurusanSMA">
+        <item>SMA IPA NEGERI</item>
+        <item>SMA IPA SWASTA</item>
+        <item>SMA IPS NEGERI</item>
+        <item>SMA IPS SWASTA</item>
+        <item>SMA Bahasa NEGERI</item>
+        <item>SMA Bahasa SWASTA</item>
+        <item>SMK Ekonomi NEGERI</item>
+        <item>SMK Ekonomi SWASTA</item>
+        <item>SMK Teknik NEGERI</item>
+        <item>SMK Teknik SWASTA</item>
+        <item>SMK Keterampilan NEGERI</item>
+        <item>SMK Keterampilan SWASTA</item>
+        <item>SMF NEGERI</item>
+        <item>SMF SWASTA</item>
+        <item>Lain-Lain</item>
+    </string-array>
+</resources>
